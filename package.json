@@ -1,0 +1,20 @@
+{
+  "name": "foryou-calculator",
+  "type": "module",
+  "version": "2.0.2",
+  "description": "A simple calculator with Typescript,Node.js and iquirer",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.Ahtisham",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
